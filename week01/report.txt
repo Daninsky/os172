@@ -1,0 +1,1 @@
+Week 1, clone git repository, an introduction to git commands, and intro to CLI and scripting
