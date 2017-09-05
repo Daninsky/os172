@@ -2,6 +2,6 @@
 
 Why Study OS?
 
-Why not
+Because everything runs on an operating system of some sort. It is a key component in our lives that we sometimes forget about. It is the magic element in the programs that we use every day.
 
-(will edit later)
+The question is essentially the same as "Why study Biology?" or another subject. Biology is the study of life. We study biology because we are alive, and because we want to know. You could also say operating system is also a part of our life, and we want to study it.
