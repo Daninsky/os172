@@ -1,0 +1,13 @@
+w01-170904-16-PS-Started working on OS Lab Week 1
+w01-170904-16-PS-Working on OS Lab Week 1
+w01-170904-17-PS-Working on OS Lab Week 1
+w01-170905-16-LR-About: Basic Scripting, From: Lecturer
+w01-170905-16-LR-About: Basic Scripting, From: Lecturer
+w01-170905-17-LR-About: Basic Scripting, From: Lecturer
+w01-170906-09-PS-Continuing OS Lab Week 1
+w01-170906-09-DS-Discussing OS Lab Week 1 with friends
+w01-170907-16-LR-About: More Scripting, From: Lecturer
+w01-170907-16-LR-About: More Scripting, From: Lecturer
+w01-170907-17-LR-About: More Scripting, From: Lecturer
+w01-170907-18-DS-Discussing scripting and OS Lab with friends
+w01-170908-21-PS-Finishing OS Lab Week 1
