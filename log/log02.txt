@@ -2,3 +2,6 @@ w02-170911-16-PS-Started working on week02 lab session, stuck at entropy. Turns 
 w02-170911-16-PS-Week02 lab session. Accidentally used sudo command in badak server. Got "incident will be reported" notification. Gave up for the day
 w02-170912-09-PS-Continuing week02 lab session, finished introduction to C
 w02-170912-20-PS-Continuing week02 lab session, finished digital signature
+w02-
+w02-170916-10-DS-Discussing C with Agas Yanpratama
+w02-170916-11-DS-Discussing C with Agas Yanpratama
