@@ -1,10 +1,10 @@
-w04-230917-18-DS-Realized forgot to submit log03. Told friends about it. Oh well
-w04-260917-16-LR-Material about file descriptor from lecturer
-w04-260917-16-LR-Material about file descriptor from lecturer
-w04-260917-17-LR-Material about file descriptor from lecturer
-w04-280917-16-LR-More material on I/O from lecturer
-w04-280917-16-LR-More material on I/O from lecturer
-w04-280917-17-LR-Explained about quiz answers by lecturer
-w04-280917-22-PS-Starting to do week04
-w04-280917-22-PS-Week04, reached ultimate pointer
-w04-290917-22-PS-Finishing week04
+w04-170923-18-DS-Realized forgot to submit log03. Told friends about it. Oh well
+w04-170926-16-LR-Material about file descriptor from lecturer
+w04-170926-16-LR-Material about file descriptor from lecturer
+w04-170926-17-LR-Material about file descriptor from lecturer
+w04-170928-16-LR-More material on I/O from lecturer
+w04-170928-16-LR-More material on I/O from lecturer
+w04-170928-17-LR-Explained about quiz answers by lecturer
+w04-170928-22-PS-Starting to do week04
+w04-170928-22-PS-Week04, reached ultimate pointer
+w04-170929-22-PS-Finishing week04
