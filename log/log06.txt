@@ -12,4 +12,5 @@ w06-171012-16-LR-Quick review session on page table entries
 w06-171012-16-LR-Quiz!
 w06-171012-17-LR-Quiz!
 w06-171014-10-DS-Discussed and helped Agas Yanpratama with assignment
+w06-171014-10-PR-Encrypt and submit assignment
 w06-171014-14-DS-Discussed assignment with Agas Yanpratama
